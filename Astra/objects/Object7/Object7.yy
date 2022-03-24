@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Well",
-    "path": "sprites/Well/Well.yy",
+    "name": "Sprite6",
+    "path": "sprites/Sprite6/Sprite6.yy",
   },
   "solid": false,
   "visible": true,
@@ -12,7 +12,7 @@
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsGroup": 1,
-  "physicsDensity": 0.0,
+  "physicsDensity": 100.0,
   "physicsRestitution": 0.1,
   "physicsLinearDamping": 0.1,
   "physicsAngularDamping": 0.1,
@@ -33,7 +33,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object2",
+  "name": "Object7",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -1,9 +1,19 @@
 {
   "resources": [
-    {"id":{"name":"Player","path":"sprites/Player/Player.yy",},"order":0,},
+    {"id":{"name":"player_sprite_right","path":"objects/player_sprite_right/player_sprite_right.yy",},"order":4,},
+    {"id":{"name":"player_down","path":"sprites/player_down/player_down.yy",},"order":17,},
+    {"id":{"name":"player_sprite_down","path":"objects/player_sprite_down/player_sprite_down.yy",},"order":2,},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":1,},
-    {"id":{"name":"wWolk","path":"sprites/wWolk/wWolk.yy",},"order":1,},
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
+    {"id":{"name":"Well","path":"sprites/Well/Well.yy",},"order":1,},
+    {"id":{"name":"player_left","path":"sprites/player_left/player_left.yy",},"order":16,},
+    {"id":{"name":"green","path":"sprites/green/green.yy",},"order":21,},
+    {"id":{"name":"player_right","path":"sprites/player_right/player_right.yy",},"order":18,},
+    {"id":{"name":"Object7","path":"objects/Object7/Object7.yy",},"order":2,},
+    {"id":{"name":"player_sprite_left","path":"objects/player_sprite_left/player_sprite_left.yy",},"order":3,},
+    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":20,},
+    {"id":{"name":"player_sprite_up","path":"objects/player_sprite_up/player_sprite_up.yy",},"order":5,},
+    {"id":{"name":"player_up","path":"sprites/player_up/player_up.yy",},"order":19,},
+    {"id":{"name":"player","path":"objects/player/player.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
