@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "player_down",
-    "path": "sprites/player_down/player_down.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -24,11 +21,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "player",
+  "name": "ob_tree",
   "tags": [],
   "resourceType": "GMObject",
 }
